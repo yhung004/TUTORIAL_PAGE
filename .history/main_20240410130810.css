@@ -124,11 +124,6 @@
     padding: 2px 7px 2px 7px;
 }
 .button_out:hover {
-    background-color:blue;
-    color:white;
-}
-.last {
-    text-align: center;
-    font-size: xx-large;
-    font-family: monospace;
+    background-color:white;
+    color:black;
 }

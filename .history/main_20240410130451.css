@@ -78,7 +78,7 @@
     text-align:center;
     font-size: 50px;
     font-family: monospace;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 .fname {
     position: relative;
@@ -86,7 +86,7 @@
     left: 570px;
     width: 250px;
     height: 40px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .uname {
     position: relative;
@@ -94,7 +94,7 @@
     left: 570px;
     width: 250px;
     height: 40px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .pwd {
     position: relative;
@@ -102,7 +102,7 @@
     left: 570px;
     width: 250px;
     height: 40px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .cpwd {
     position: relative;
@@ -110,25 +110,5 @@
     left: 570px;
     width: 250px;
     height: 40px;
-    margin-top: 20px;
-}
-.button_out {
-    position: relative;
-    left: 630px;
-    margin-top: 60px;
-    background-color:black;
-    color: white;
-    font-size: 30px;
-    font-family: monospace;
-    border-radius: 20px;
-    padding: 2px 7px 2px 7px;
-}
-.button_out:hover {
-    background-color:blue;
-    color:white;
-}
-.last {
-    text-align: center;
-    font-size: xx-large;
-    font-family: monospace;
+    margin-top: 40px;
 }

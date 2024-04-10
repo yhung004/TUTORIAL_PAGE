@@ -13,6 +13,7 @@
 .button_a {
     position: relative;
     left: 580px;
+    border: 1px solid black;
     background-color:white;
     border-radius: 30px;
     font-size: 40px;
@@ -21,7 +22,8 @@
 }
 .button_b {
     position: relative;
-    right: -600px; 
+    right: -600px;
+    border : 1px solid black;
     border-radius: 40px;
     background-color: rgb(63, 60, 60);
     color:white;
@@ -29,13 +31,13 @@
     padding: 2px 7px 2px 7px;
     margin-top: 20px;
 }
-.button_a:hover {
-    background-color:blue;
+a.button_b1 {
+    text-decoration: none;
     color:white;
 }
-.button_b:hover {
+a.button_a1 {
+    text-decoration:none;
     color:black;
-    background-color:rgb(71, 68, 69);
 }
 .login {
     text-align:center;
@@ -69,66 +71,4 @@
     border-radius: 20px;
     padding: 2px 7px 2px 7px;
 
-}
-.button_in:hover {
-    background-color:blue;
-    color:white;
-}
-.sign_up {
-    text-align:center;
-    font-size: 50px;
-    font-family: monospace;
-    margin-top: 40px;
-}
-.fname {
-    position: relative;
-    border-radius: 30px;
-    left: 570px;
-    width: 250px;
-    height: 40px;
-    margin-top: 20px;
-}
-.uname {
-    position: relative;
-    border-radius: 30px;
-    left: 570px;
-    width: 250px;
-    height: 40px;
-    margin-top: 20px;
-}
-.pwd {
-    position: relative;
-    border-radius: 30px;
-    left: 570px;
-    width: 250px;
-    height: 40px;
-    margin-top: 20px;
-}
-.cpwd {
-    position: relative;
-    border-radius: 30px;
-    left: 570px;
-    width: 250px;
-    height: 40px;
-    margin-top: 20px;
-}
-.button_out {
-    position: relative;
-    left: 630px;
-    margin-top: 60px;
-    background-color:black;
-    color: white;
-    font-size: 30px;
-    font-family: monospace;
-    border-radius: 20px;
-    padding: 2px 7px 2px 7px;
-}
-.button_out:hover {
-    background-color:blue;
-    color:white;
-}
-.last {
-    text-align: center;
-    font-size: xx-large;
-    font-family: monospace;
 }
