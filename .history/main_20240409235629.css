@@ -1,0 +1,17 @@
+.welcome{
+    text-align: center;
+}
+.welcome_text {
+    text-align:center;
+}
+.button_a {
+    position: relative;
+    margin: 0 -200px 0 200px;
+}
+.button_b {
+    position: relative;
+    margin: 0 -250px 0 250px;
+    border : 1px solid black;
+    border-radius: 20px;
+    background-color:rgb(red, green, blue);
+}

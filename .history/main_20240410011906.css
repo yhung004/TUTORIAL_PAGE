@@ -1,0 +1,28 @@
+.welcome{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.welcome_text {
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.button_a {
+    position: relative;
+    margin: 0 -200px 0 240px;
+    border: 1px solid black;
+    background-color:white;
+    border-radius: 20px;
+    font-size: medium;
+    padding: 2px 7px 2px 7px;
+}
+.button_b {
+    position: relative;
+    margin: 0 -250px 0 210px;
+    border : 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(63, 60, 60);
+    color:white;
+    font-size: medium;
+    padding: 2px 7px 2px 7px;
+}

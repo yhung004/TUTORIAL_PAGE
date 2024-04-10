@@ -1,0 +1,10 @@
+.welcome{
+    text-align: center;
+}
+.welcome_text {
+    text-align:center;
+}
+.button_a {
+    position: relative;
+    margin: 0 -150px 0 150px;
+}
